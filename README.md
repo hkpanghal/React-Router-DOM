@@ -9,10 +9,10 @@ This project is helpful for learning the implementation of the following  topics
 5. basic DOM manipulation ✅
 6. jsx implementation ✅
 7. component structuring ✅
-8. api handling
-9. react router dom
-10. route structuring
-11. url data fetching(useparams())
+8. api handling ✅
+9. react router dom ✅
+10. route structuring ✅
+11. url data fetching(useparams()) ✅
 
 
 
